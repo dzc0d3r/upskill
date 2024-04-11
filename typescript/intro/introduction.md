@@ -34,10 +34,10 @@ console.log(`Hello ${username}`)
 ```bash 
 tsc app.ts
 ```
-This will compile `app.ts` and produce a `app.js` file in the same directory which you can run : 
+This will compile `app.ts` and produce a `app.js` file in the same directory which you can run :
 ```bash 
 node app.js
-``
+```
 Output: 
 ```bash 
 Hello Walid!
